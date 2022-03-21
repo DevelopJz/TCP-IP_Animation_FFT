@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct  6 13:45:24 2020
-
-@author: 박종민
-"""
-
 #라이브러리
 import numpy as np
 import matplotlib.pyplot as plt
